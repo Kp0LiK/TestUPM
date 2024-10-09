@@ -11,5 +11,13 @@
   },
   "dependencies": {
     "com.unity.textmeshpro": "2.1.1"
-  }
+  },
+
+"samples": [
+    {
+      "displayName": "My Sample Content",
+      "description": "Sample files for the package",
+      "path": "Samples~/MySample"
+    }
+  ]
 }
