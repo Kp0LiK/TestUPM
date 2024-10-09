@@ -1,0 +1,15 @@
+{
+  "name": "com.mycompany.mycustompackage",
+  "version": "1.0.0",
+  "displayName": "My Custom Package",
+  "description": "This is a custom Unity package for various utilities.",
+  "unity": "2020.3",
+  "author": {
+    "name": "My Company",
+    "email": "support@mycompany.com",
+    "url": "https://mycompany.com"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "2.1.1"
+  }
+}
