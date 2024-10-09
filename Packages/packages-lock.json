@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.mycompany.mycustompackage": {
-      "version": "file:MyCustomPackage",
+      "version": "file:../Assets/MyCustomPackage",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {
         "com.unity.textmeshpro": "2.1.1"
       }
