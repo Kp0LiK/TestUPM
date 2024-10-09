@@ -38,8 +38,6 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-"com.mycompany.mycustompackage": "file:/Users/funtyx.dev/Downloads/Roll-a-Ball/Packages/MyCustomPackage",
- "com.mycompany.mycustompackage": "http://funtyx.direct.quickconnect.to:3000/funtyx/--3D-Benza-World--.git"
-  }
-  }
+    "com.mycompany.mycustompackage": "file:/Users/funtyx.dev/TestUPM"
+   }
 }
