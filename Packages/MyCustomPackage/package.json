@@ -17,7 +17,7 @@
     {
       "displayName": "My Sample Content",
       "description": "Sample files for the package",
-      "path": "Samples~/MySample"
+      "path": "Samples/MySample"
     }
-  ]
+]
 }
